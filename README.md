@@ -39,8 +39,8 @@ This project goes over how to find / search a computer, user, printer, shared fo
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/txb6Mot.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/AcOJlQA.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/txb6Mot.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/AcOJlQA.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
