@@ -5,7 +5,7 @@
 ⏹️ Description</h2>
 
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
-This project goes over how to find / search a computer, user, printer, shared folder, organizational unit, or common query in Active Directory Users and Computers. The "Find" feature in Active Directory Users and Computers (ADUC) allows you to search for specific objects (computer, user, printer, shared folder, organizational unit, or common query) within your Active Directory domain based on various criteria.
+This project goes over how to find / search a computer, user, contact, group, printer, shared folder, organizational unit, or common query in Active Directory Users and Computers. The "Find" feature in Active Directory Users and Computers (ADUC) allows you to search for specific objects (computer, user, contact, group, printer, shared folder, organizational unit, or common query) within your Active Directory domain based on various criteria.
 </b>
 
 
