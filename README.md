@@ -34,7 +34,7 @@ This project goes over how to find / search a computer, user, contact, group, pr
  <br/>
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Active Directory Users and Computers.</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Active Directory Users and Computers.</b></span>  
 <br/>
 
 <table>
@@ -48,7 +48,7 @@ This project goes over how to find / search a computer, user, contact, group, pr
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click (OR) Double-Click: The Domain.</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click (OR) Double-Click: The Domain.</b></span>  
 <br/>
 
 <table>
@@ -61,14 +61,14 @@ This project goes over how to find / search a computer, user, contact, group, pr
 <br /><br />
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Right-Click: Any organizational unit OR folder within the domain controller.</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Right-Click: Any organizational unit OR folder within the domain controller.</b></span>  
   <br/>
   <img src="https://imgur.com/GZddXBb.png" height="50%" width="50%"/>  
   <br /><br /><br /><br />
 
   
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Next, Click: Find</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Next, Click: Find.</b></span>  
 <br/>
 
 <table>
@@ -82,7 +82,7 @@ This project goes over how to find / search a computer, user, contact, group, pr
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: The box with “Computers” (next to: Left: In AND Right: Browse - at the top) & Select: Entire Directory – So your search will look throughout the entire directory.</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: The box with “Computers” (next to: Left: In AND Right: Browse - at the top) & Select: Entire Directory – So your search will look throughout the entire directory.</b></span>  
 <br/>
 
 <table>
@@ -103,7 +103,7 @@ This project goes over how to find / search a computer, user, contact, group, pr
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: The box with “Users, Contacts, and Groups” (next to: Left: Find AND Right: In - at the top) to pick what you are going to searching for: 1) Users, Contacts, and Groups, 2) Computers, 3) Printers, 4) Shared Folders, 5) Organizational Units, 6) Custom Search, 7) Common Queries.</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: The box with “Users, Contacts, and Groups” (next to: Left: Find AND Right: In - at the top) to pick what you are going to searching for: 1) Users, Contacts, and Groups, 2) Computers, 3) Printers, 4) Shared Folders, 5) Organizational Units, 6) Custom Search, 7) Common Queries.</b></span>  
 <br/>
 
 <table>
@@ -117,14 +117,14 @@ This project goes over how to find / search a computer, user, contact, group, pr
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Type: Fill in the search information.</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Type: Fill in the search information.</b></span>  
   <br/>
   <img src="https://imgur.com/xdqv5yn.png" height="50%" width="50%"/>  
   <br /><br /><br /><br />
 
 
   </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Find Now</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Find Now.</b></span>  
   <br/>
   <img src="https://imgur.com/jFquw0t.png" height="50%" width="50%"/>  
   <br /><br /><br /><br />
